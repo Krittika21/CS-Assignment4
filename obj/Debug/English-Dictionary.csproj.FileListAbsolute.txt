@@ -1,0 +1,7 @@
+C:\Users\krittika\source\repos\English-Dictionary\English-Dictionary\bin\Debug\English-Dictionary.exe.config
+C:\Users\krittika\source\repos\English-Dictionary\English-Dictionary\bin\Debug\English-Dictionary.exe
+C:\Users\krittika\source\repos\English-Dictionary\English-Dictionary\bin\Debug\English-Dictionary.pdb
+C:\Users\krittika\source\repos\English-Dictionary\English-Dictionary\obj\Debug\English-Dictionary.csprojAssemblyReference.cache
+C:\Users\krittika\source\repos\English-Dictionary\English-Dictionary\obj\Debug\English-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\krittika\source\repos\English-Dictionary\English-Dictionary\obj\Debug\English-Dictionary.exe
+C:\Users\krittika\source\repos\English-Dictionary\English-Dictionary\obj\Debug\English-Dictionary.pdb
